@@ -2,7 +2,7 @@
 # Sample Project
 
 ## Description
-This project demonstrates a simple README file structure and usage.
+This project demonstrates a simple README file structure.
 
 ## Installation
 1. Clone the repository:
